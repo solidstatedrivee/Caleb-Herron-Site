@@ -1,0 +1,19 @@
+{
+    "name": "calebherronportfolio",
+    "version": "1.0.0",
+    "main": "server.js",
+    "dependencies": {
+        "jquery": "^3.5.1",
+        "express": "^4.16.4",
+        "nodemailer": "^5.1.1",
+        "nodemailer-mailgun-transport": "^1.4.0"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": ""
+}
