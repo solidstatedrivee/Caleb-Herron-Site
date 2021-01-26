@@ -230,7 +230,7 @@ $(function() {
     // End audio player functionality
     //-----------------------------------------------------------------
 
-    // Send info in contact form to host server so that it can be sent to recipient email server
+    // Send info in contact form to host server so that it can be sent to recipient email server using MailGun
     // -------------------------------------------------------------------------
     $('form').on('submit', (e) => {
         e.preventDefault();
